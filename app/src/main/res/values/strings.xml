@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Class Rutine</string>
+    <string name="heading_name">Class Rutine Fall-2017</string>
+    <string name="day_button1">Monday</string>
+    <string name="day_button2">Tuesday</string>
+    <string name="day_button3">Wednesday</string>
+    <string name="day_button4">Thursday</string>
+    <string name="mon_text">
+         Subject: Principles of Accounting\n
+         Course Code: ACC 124\n
+         Time:2:30-4:00pm\n
+         Room Num:604\n
+         Building: AB\n
+         Teacher: Md. Arif Hassan\n\n\n
+         Subject: Software Project Management\n
+         Course Code: SWE 212\n
+         Time:4:00-5:30pm\n
+         Room Num:604\n
+         Building: AB\n
+         Teacher: M. Khaled Sohel
+
+
+    </string>
+    <string name="tues_text">
+         Subject: Documentation of Software Engineering\n
+         Course Code: SWE 131\n
+         Time:1:00-2:30pm\n
+         Room Num:405\n
+         Building: AB\n
+         Teacher: Md Alamgir Kabir\n\n\n
+         Subject: Software Project Management\n
+         Course Code: SWE 212\n
+         Time:2:30-4:00pm\n
+         Room Num:601\n
+         Building: AB\n
+         Teacher: M. Khaled Sohel\n\n
+         Subject: Operating System\n
+         Course Code: SWE 232\n
+         Time:4:00-5:30pm\n
+         Room Num:601\n
+         Building: AB\n
+         Teacher:Dr. Md. Mostafijur Rahman
+
+
+    </string>
+    <string name="wed_text">
+         Subject: Documentation of Software Engineering\n
+         Course Code: SWE 131\n
+         Time:1:00-2:30pm\n
+         Room Num:504\n
+         Building: AB\n
+         Teacher: Md Alamgir Kabir\n\n\n
+         Subject: Operating System Lab-1\n
+         Course Code: SWE 232\n
+         Time:4:00-5:30pm\n
+         Room Num:404\n
+         Building: AB\n
+         Teacher:Dr. Md. Mostafijur Rahman\n\n\n
+         Subject: Operating System\n
+         Course Code: SWE 232\n
+         Time:4:00-5:30pm\n
+         Room Num:501\n
+         Building: AB\n
+         Teacher:Dr. Md. Mostafijur Rahman\n\n\n
+
+
+
+    </string>
+    <string name="thus_text">
+          Subject: Operating System Lab-2\n
+          Course Code: SWE 232\n
+          Time:1:00-2:30pm\n
+          Room Num:304\n
+          Building: AB\n
+          Teacher:Dr. Md. Mostafijur Rahman\n\n\n
+          Subject: Principles of Accounting\n
+          Course Code: ACC 124\n
+          Time:4:00-5:30pm\n
+          Room Num:501\n
+          Building: AB\n
+          Teacher: Md. Arif Hassan
+
+    </string>
+
+
+</resources>
